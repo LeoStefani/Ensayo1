@@ -7,3 +7,4 @@ git push
 para bajarnos los cambios hacemos :
  git pull 
 
+Cambios Por LST
